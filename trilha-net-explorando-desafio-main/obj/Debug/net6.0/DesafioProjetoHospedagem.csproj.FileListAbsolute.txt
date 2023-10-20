@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\Projeto C#\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Projeto C#\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Projeto C#\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Users\USER\Desktop\Projeto C#\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
